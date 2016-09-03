@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gdx-pay-android-googleplay-0.10.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdxpay/gdx-pay-android-googleplay/0.10.0/1dac779e992e7372305fb0fa1875cebf0fc24a45/gdx-pay-android-googleplay-0.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdxpay/gdx-pay-android-googleplay/0.10.0/54abbc0ffb7119674b7a2d3731002c4e597d6f0e/gdx-pay-android-googleplay-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
